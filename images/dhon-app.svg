@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 1080" role="img" aria-labelledby="t d">
+<title id="t">DH On construction field app preview</title><desc id="d">Dark mobile app interface with document, translation and notice panels.</desc>
+<rect width="1440" height="1080" fill="#f4f3ef"/>
+<g fill="none" stroke="#d9d7d0"><path d="M0 180h1440M0 360h1440M0 540h1440M0 720h1440M0 900h1440"/><path d="M240 0v1080M480 0v1080M720 0v1080M960 0v1080M1200 0v1080"/></g>
+<text x="92" y="120" font-family="Arial,sans-serif" font-size="24" letter-spacing="7" fill="#777">DROID STUDIO / MOBILE PRODUCT</text>
+<text x="92" y="910" font-family="Arial,sans-serif" font-size="74" font-weight="700" fill="#17191d">DH On</text>
+<text x="92" y="966" font-family="Arial,sans-serif" font-size="28" fill="#686b72">건설 현장 관리 · 다국어 음성 번역</text>
+<g transform="translate(565 120)">
+<rect x="0" y="0" width="380" height="790" rx="52" fill="#17191d"/>
+<rect x="16" y="16" width="348" height="758" rx="42" fill="#22252b" stroke="#4c515a"/>
+<rect x="132" y="28" width="116" height="18" rx="9" fill="#0f1013"/>
+<text x="42" y="102" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#fff">DH On</text>
+<text x="42" y="137" font-family="Arial,sans-serif" font-size="16" fill="#989da7">오늘 현장 업무</text>
+<rect x="42" y="178" width="296" height="132" rx="24" fill="#2d64ff"/>
+<text x="67" y="222" font-family="Arial,sans-serif" font-size="16" fill="#cfe0ff">OUTPUT LOG</text>
+<text x="67" y="266" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#fff">출력 일보</text>
+<rect x="42" y="330" width="142" height="142" rx="24" fill="#2a2e35" stroke="#41464f"/>
+<text x="62" y="373" font-family="Arial,sans-serif" font-size="34">📄</text><text x="62" y="429" font-family="Arial,sans-serif" font-size="18" fill="#fff">서류 관리</text>
+<rect x="196" y="330" width="142" height="142" rx="24" fill="#2a2e35" stroke="#41464f"/>
+<text x="216" y="373" font-family="Arial,sans-serif" font-size="34">🔊</text><text x="216" y="429" font-family="Arial,sans-serif" font-size="18" fill="#fff">음성 번역</text>
+<rect x="42" y="492" width="296" height="106" rx="24" fill="#2a2e35" stroke="#41464f"/>
+<text x="65" y="534" font-family="Arial,sans-serif" font-size="16" fill="#9297a1">NOTICE</text><text x="65" y="568" font-family="Arial,sans-serif" font-size="20" fill="#fff">공지 · 전달사항</text>
+<rect x="42" y="620" width="296" height="96" rx="24" fill="#1d2025"/>
+<text x="65" y="657" font-family="Arial,sans-serif" font-size="15" fill="#9297a1">LANGUAGE</text><text x="65" y="692" font-family="Arial,sans-serif" font-size="18" fill="#fff">한국어 · Tiếng Việt · 中文</text>
+</g>
+<g transform="translate(1000 310)"><rect width="326" height="210" rx="28" fill="#fff" stroke="#dedbd3"/><text x="28" y="48" font-family="Arial,sans-serif" font-size="15" fill="#888">FIELD UX</text><text x="28" y="94" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#17191d">큰 버튼, 빠른 공유</text><text x="28" y="134" font-family="Arial,sans-serif" font-size="17" fill="#6e7177">장갑을 낀 현장 사용자를 고려한</text><text x="28" y="165" font-family="Arial,sans-serif" font-size="17" fill="#6e7177">다크 UI와 단순한 흐름</text></g>
+</svg>
