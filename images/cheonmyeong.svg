@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 1080" role="img" aria-labelledby="t d">
+<title id="t">Cheonmyeong Ilju project placeholder</title><desc id="d">Minimal abstract work in progress visual for an empty public repository.</desc>
+<rect width="1440" height="1080" fill="#f3f1eb"/>
+<text x="86" y="112" font-family="Arial,sans-serif" font-size="24" letter-spacing="7" fill="#777">DROID STUDIO / LAB</text>
+<circle cx="1040" cy="414" r="274" fill="none" stroke="#c9c3b8" stroke-width="2"/>
+<circle cx="1040" cy="414" r="194" fill="none" stroke="#d9d4cb" stroke-width="2"/>
+<circle cx="1040" cy="414" r="113" fill="#1b1c1e"/>
+<text x="1040" y="439" text-anchor="middle" font-family="serif" font-size="70" fill="#fff">天命</text>
+<g stroke="#b9b3a9" stroke-width="2"><path d="M1040 80v120M1040 628v120M706 414h120M1254 414h120"/><path d="M804 178l85 85M1191 565l85 85M1276 178l-85 85M889 565l-85 85"/></g>
+<text x="86" y="827" font-family="Arial,sans-serif" font-size="18" letter-spacing="4" fill="#8a867f">PUBLIC REPOSITORY / WORK IN PROGRESS</text>
+<text x="86" y="902" font-family="Arial,sans-serif" font-size="74" font-weight="700" fill="#191a1d">천명일주</text>
+<text x="86" y="962" font-family="Arial,sans-serif" font-size="28" fill="#686b72">공개 준비 중인 실험 프로젝트</text>
+<rect x="86" y="687" width="278" height="64" rx="32" fill="#fff" stroke="#d9d4cb"/><circle cx="122" cy="719" r="7" fill="#c9852b"/><text x="145" y="727" font-family="Arial,sans-serif" font-size="17" fill="#4b4d51">Repository currently empty</text>
+</svg>
